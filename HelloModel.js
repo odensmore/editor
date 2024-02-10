@@ -3,7 +3,7 @@ import Model from 'https://code.agentscript.org/src/Model.js'
 import * as util from 'https://code.agentscript.org/src/utils.js'
 
 class HelloModel extends Model {
-    population = 10 // number of turtles
+    population = 100 // number of turtles
     speed = 0.1 // step size in patch units
     wiggleAngle = 10 // wiggle angle in degrees
 
